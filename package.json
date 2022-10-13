@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Just another repository While clear instructions have been issued to make every Cabinet meeting a productive one,  the ones will be on the ministers and their subordinates to disseminate government initiatives and decisions among public",
+  "main": "appium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThangamTS/Hello-World.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThangamTS/Hello-World/issues"
+  },
+  "homepage": "https://github.com/ThangamTS/Hello-World#readme"
+}
