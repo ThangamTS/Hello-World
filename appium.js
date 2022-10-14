@@ -47,6 +47,7 @@ var options = {
         "app": "/Users/tthiagar/Downloads/HBOMax-Android-DMX-RC-52.45.0.6.35245006.apk"
     }
 };
+//Learning Git and Git hub
 function launchApp() {
     return __awaiter(this, void 0, void 0, function () {
         var client, button, profile, value;
